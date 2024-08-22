@@ -1,0 +1,36 @@
+.container {
+    max-width: 600px;
+    width: 100%;
+    margin: 150px auto;
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    margin: 5px;
+    display: flex;
+    padding: 3px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 3px;
+    border-radius: 5px;
+    margin-left: 40%;
+}
+
+p {
+    text-align: center;
+}
